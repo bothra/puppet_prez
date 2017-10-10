@@ -1,1 +1,1 @@
-node "localhost.localdomain" { include roles::fileserver }
+node "localhost.localdomain" { include role::fileserver }

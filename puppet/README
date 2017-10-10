@@ -1,0 +1,8 @@
+Basic tree layout for puppet roles & profiles
+
+./         = /etc/puppetlabs/puppet
+./custom   = put homegrown modules here
+./modules  = put forge modules here
+./profiles = put profiles that configure modules here
+./roles    = put roles that contain profiles here
+
